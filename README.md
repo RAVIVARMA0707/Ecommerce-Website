@@ -152,6 +152,7 @@ This project is a full-stack e-commerce website using React for the frontend, Sp
 ## Project Structure
 
 ### Backend
+```bash
 backend
 ├── src
 │ ├── main
@@ -179,4 +180,5 @@ backend
 │ └── EcommerceApplicationTests.java
 ├── pom.xml
 └── ...
+```
 
