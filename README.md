@@ -151,5 +151,32 @@ This project is a full-stack e-commerce website using React for the frontend, Sp
 
 ## Project Structure
 
-### Frontend
+### Backend
+backend
+├── src
+│ ├── main
+│ │ ├── java
+│ │ │ └── com
+│ │ │ └── ravi
+│ │ │ └── ecom_proj
+│ │ │ ├── controller
+│ │ │ │ └── ProductController.java
+│ │ │ ├── model
+│ │ │ │ └── Product.java
+│ │ │ ├── repository
+│ │ │ │ └── ProductRepository.java
+│ │ │ ├── service
+│ │ │ │ └── ProductService.java
+│ │ │ └── EcommerceApplication.java
+│ ├── resources
+│ │ ├── application.properties
+│ │ └── schema.sql
+│ └── test
+│ └── java
+│ └── com
+│ └── ravi
+│ └── ecom_proj
+│ └── EcommerceApplicationTests.java
+├── pom.xml
+└── ...
 
