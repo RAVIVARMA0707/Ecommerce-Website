@@ -1,10 +1,10 @@
-# E-Commerce Website
+# E-Commerce Website🛒🛒
 
 ## Overview
 
 This project is a full-stack e-commerce website using React for the frontend, Spring Boot for the backend, and MySQL as the database. The application allows users to browse products, add them to the cart, and make purchases. Admins can manage the product inventory through CRUD operations.
 
-## Features
+## Features🪶
 
 - Product listing and details
 - Shopping cart functionality
@@ -13,9 +13,9 @@ This project is a full-stack e-commerce website using React for the frontend, Sp
 - Responsive design
 - Add, update, delete, and create products with images
 
-## Technologies Used
+## Technologies Used 💻
 
-### Frontend
+### Frontend 🤖
 
 - React
 - Redux
